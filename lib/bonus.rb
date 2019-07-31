@@ -19,7 +19,7 @@ def bonus
       ]
    }
   }
-
+hash = {first
   #code your solution here:
 
   
